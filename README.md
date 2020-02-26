@@ -69,8 +69,6 @@ Cardio =0 "Absent" else "Present".For BMI,calculated field was height in cms/wei
 
 ## Predictive Supervised Machine Learning:
 
-**Dataset:** The cardio risk dataset was used for ML.  The dataset had 13 columns, 12 features and 1 target (cardio). The target has two classes (0- heart disease absent, 1-heart disease present).
-
 **Libraries used:** Scikit-learn, Keras, Tensorflow
 
 ### **Data pre-processing:**
@@ -84,7 +82,7 @@ EDA was performed in pandas to analyze the data, identify outliers, imbalanced f
 Following statistical tests were performed to select the best features for modeling and avoid over-fitting.
 
 + Univariate Selection:
-The scikit-learn library provides the SelectKBest class that can be used with a suite of different statistical tests to select a specific number of features. The code below uses the chi-squared (chi²) statistical test to select 10 of the best features.
+The scikit-learn library provides the SelectKBest class that can be used with a suite of different statistical tests to select a specific number of features. The code uses chi-squared (chi²) statistical test to select 10 of the best features.
 + Feature importance:
 Feature importance is an inbuilt class that comes with Tree Based Classifiers. Extra Tree Classifier is used for extracting the top 10 features for the dataset.
 + Correlation Matrix with Heatmap
