@@ -12,7 +12,7 @@
 The app is deployed on Heroku (https://lubdub-heartsense.herokuapp.com/) 
 
 ## Team members:
-Emi Babu, Mary Brown, Harmeet Kaur, Sarah Mathew, Gargi Paul
+Emi Babu, Mary Brown, Harmeet Kaur (team lead), Sarah Mathew, Gargi Paul
 
 ## Data Extraction, Transformation and Loading
 
@@ -66,6 +66,7 @@ Cardio =0 "Absent" else "Present".For BMI,calculated field was height in cms/wei
 9. Alcohol Consumption vs Heart Disease [Bar plot]
 
 [Tableau Dashboard](https://public.tableau.com/profile/gargi.paul#!/vizhome/ProjectHeartsense_t/Dashboard1)
+[Tableau Dashboard](https://public.tableau.com/app/profile/harmeet2811/viz/RiskFactorsforChronicHeartDisease/Insight)
 
 ## Predictive Supervised Machine Learning:
 
