@@ -5,6 +5,8 @@
 [![GitHub license](https://img.shields.io/github/license/msfa12th/heartsense?style=for-the-badge)](https://github.com/msfa12th/heartsense)
 # LUB DUB : A Machine Learning Based App for Prediction of Heart Disease and a Tableau dashboard for graphical exploration.
 
+## Organization : Rutgers University/2U Inc
+
 ## Summary:
 <dt>According to the WHO, cardiovascular diseases (CVDs) are the number one cause of death globally, taking an estimated 17.9 million lives each year. Extensive research has identified factors that increase a person’s risk for coronary heart disease in general and heart attack in particular.The American Heart Association recommends focusing on heart disease prevention early in life. To start, assess your risk factors and work to keep them low. The sooner you identify and manage your risk factors, the better your chances of leading a heart-healthy life. This project is aimed at understanding some of the risk factors associated with heart disease and build a predictive model thereof citing the potential risk of occurrence in individuals. 
 </dt>
