@@ -12,7 +12,7 @@
 The app is deployed on Heroku (https://lubdub-heartsense.herokuapp.com/) 
 
 ## Team members:
-Emi Babu, Mary Brown, Harmeet Kaur (team lead), Sarah Mathew, Gargi Paul
+Harmeet Kaur (team lead), Emi Babu, Mary Brown,Sarah Mathew, Gargi Paul
 
 ## Data Extraction, Transformation and Loading
 
